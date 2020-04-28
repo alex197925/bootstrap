@@ -1,0 +1,27 @@
+ body {
+    background-color:#fafafa;
+    color: #B3B6B7 ;
+ }  
+
+
+
+ .gray-box{
+	background-color: #1a1919;
+	border: 1px solid #f8f4f4;
+}
+
+.box{
+	padding: 4%;
+
+}
+.empty-box{
+	padding: 4%;
+}
+.orang-box {
+   background-color: rgb(226, 113, 21);
+   border: 1px solid #f8f4f4;
+}
+.yellow-box {
+   background-color: rgb(233, 233, 14);
+   border: 1px solid #f8f4f4;
+}
